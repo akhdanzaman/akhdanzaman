@@ -1,5 +1,5 @@
 # About Me:
-I'm passionate on optimizing industrial cases using automation and machine learning.<br><br>I’m currently studying at Sebelas Maret University
+I'm passionate on optimizing industrial cases using automation and machine learning.<br><br>I’m currently studying at Sebelas Maret University<br><br>Hope you could know me well from my repositories!
 
 
 # Socials:
